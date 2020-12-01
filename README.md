@@ -1,2 +1,2 @@
-# anand-sharan1.github.io
+# anand-sharan-one.github.io
 Repo for class
